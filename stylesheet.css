@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document*/
+#logo
+{
+	width: 150px;
+	height: 150px;
+}
+body
+{
+/*	background-image: url(images/IN-en-20230619-popsignuptwoweeks-perspective_alpha_website_large.jpg)*/
+	background-color: black;
+    
+}
+nav
+{
+	padding: 1px;
+	display: flex;
+}
+nav ul
+{
+	display: flex;
+	gap: 8rem;
+	
+}
+h2,h1
+{
+	color: aliceblue;
+}
+.fin
+{
+	border: solid red;
+	margin: 0px 550px 0px 550px;
+}
+#sac
+{
+	width: 300px;
+	height: 300px;
+	
+}
+#night
+{
+	width: 300px;
+	height: 300px;
+}
+#stranger
+{
+	width: 300px;
+	height: 300px;
+}
+#dip
+{
+	width: 300px;
+	height: 300px;
+}
+#wit
+{
+	width: 300px;
+	height: 300px;
+}
+#crown
+{
+	width: 300px;
+	height: 300px;
+}
+#king
+{
+	width: 300px;
+	height: 300px;
+}
+#mark
+{
+	width: 300px;
+	height: 300px;
+}
+#florida
+{
+	width: 300px;
+	height: 300px;
+}
+#sand
+{
+	width: 300px;
+	height: 300px;
+}
+#well
+{
+	width: 300px;
+	height: 300px;
+}
+#heart
+{
+	width: 300px;
+	height: 300px;
+}
+#lucifer
+{
+	width: 300px;
+	height: 300px;
+}
+#outer
+{
+	width: 300px;
+	height: 300px;
+}
+#mani
+{
+	width: 300px;
+	height: 300px;
+}
+button
+	{
+		color:black;
+	 background: #CE272A;
+	}
+.ask
+{
+	text-decoration:underline;
+}
